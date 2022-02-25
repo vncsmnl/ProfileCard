@@ -200,3 +200,9 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+
+@media (max-width: 992px) {
+  body {
+    zoom: 200%;
+  }
+}
